@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: white;
+}
+
+button.Add {
+    width: 60px;
+}
+
+button.hover {
+    color: red;
+}
+
+remove.button {
+    width: 120px;
+}
